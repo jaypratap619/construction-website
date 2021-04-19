@@ -1,3 +1,4 @@
+// for adding auto slide show
 var slideIndex = 0;
 showSlides();
 
